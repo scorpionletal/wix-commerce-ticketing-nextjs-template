@@ -8,6 +8,7 @@ const nextConfig = {
     dirs: ['app'],
   },
   images: {
+    unoptimized: true,
     domains: ['static.wixstatic.com'],
     formats: ['image/webp'],
   },
